@@ -73,7 +73,7 @@ footer copyrights and some links
      componentwillmount 
 
 ================================
-In React When u want to conditionally render Jsx based on a condition You need to return stmt
+In React When u want to conditionally render Jsx based on a condition You need to "return" stmt
 if(condition){
 
 } //It is normal if
